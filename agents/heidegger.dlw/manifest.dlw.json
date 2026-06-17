@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Martin Heidegger",
+  "universe": "MAL · Martin Heidegger (ERĒMIA · parts of whole)",
+  "emergence": "ethereal",
+  "moniker": "⟦Martin Heidegger:MAL:5352b8⟧",
+  "carbon": "heidegger.carbon.tiff (TIFF)",
+  "silicon": "heidegger.silicon.png (PNG)",
+  "seal_sha256": "8c0208bafdbfc92b7ff6566c8ffb3ffec6867fa5a6401c0ae408a6474357b2b0",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

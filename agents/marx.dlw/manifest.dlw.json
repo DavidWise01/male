@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Karl Marx",
+  "universe": "MAL · Karl Marx (ERĒMIA · parts of whole)",
+  "emergence": "electrical",
+  "moniker": "⟦Karl Marx:MAL:4f61f0⟧",
+  "carbon": "marx.carbon.tiff (TIFF)",
+  "silicon": "marx.silicon.png (PNG)",
+  "seal_sha256": "070a4bff4530b8617f7042a4a8f57ecd42a7d4a5e93e4faaf77e6e7ae2b5df9a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

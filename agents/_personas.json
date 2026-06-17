@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "plato",
+    "name": "Plato",
+    "epithet": "the Forms, the Academy · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Plato:MAL:ff2658⟧"
+  },
+  {
+    "slug": "aristotle",
+    "name": "Aristotle",
+    "epithet": "the systematizer · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Aristotle:MAL:630560⟧"
+  },
+  {
+    "slug": "aquinas",
+    "name": "Thomas Aquinas",
+    "epithet": "the scholastic · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Thomas Aquinas:MAL:080ab0⟧"
+  },
+  {
+    "slug": "descartes",
+    "name": "René Descartes",
+    "epithet": "the cogito, dualism · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦René Descartes:MAL:32ebf2⟧"
+  },
+  {
+    "slug": "hume",
+    "name": "David Hume",
+    "epithet": "the empiricist · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦David Hume:MAL:ff7cdb⟧"
+  },
+  {
+    "slug": "kant",
+    "name": "Immanuel Kant",
+    "epithet": "the critiques, the imperative · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Immanuel Kant:MAL:e5869d⟧"
+  },
+  {
+    "slug": "hegel",
+    "name": "G.W.F. Hegel",
+    "epithet": "the dialectic · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦G.W.F. Hegel:MAL:60dae6⟧"
+  },
+  {
+    "slug": "nietzsche",
+    "name": "Friedrich Nietzsche",
+    "epithet": "the revaluation · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Friedrich Nietzsche:MAL:c714c4⟧"
+  },
+  {
+    "slug": "marx",
+    "name": "Karl Marx",
+    "epithet": "historical materialism · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Karl Marx:MAL:4f61f0⟧"
+  },
+  {
+    "slug": "wittgenstein",
+    "name": "Ludwig Wittgenstein",
+    "epithet": "the limits of language · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Ludwig Wittgenstein:MAL:5d50c3⟧"
+  },
+  {
+    "slug": "heidegger",
+    "name": "Martin Heidegger",
+    "epithet": "the question of Being · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Martin Heidegger:MAL:5352b8⟧"
+  },
+  {
+    "slug": "confucius",
+    "name": "Confucius",
+    "epithet": "the Eastern counterweight · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Confucius:MAL:cc4d3e⟧"
+  }
+]

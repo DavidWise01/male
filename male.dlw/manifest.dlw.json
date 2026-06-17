@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "MALE",
+  "universe": "MAL · MALE (ERĒMIA · parts of whole)",
+  "emergence": "",
+  "moniker": "⟦MALE:MAL:d912c5⟧",
+  "carbon": "male.carbon.tiff (TIFF)",
+  "silicon": "male.silicon.png (PNG)",
+  "seal_sha256": "bb5cc9ca7047aaafcbf519db47d81f8f4e093a3d9102eb08e2852bab879527d7",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

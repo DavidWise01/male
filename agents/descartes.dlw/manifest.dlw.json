@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "René Descartes",
+  "universe": "MAL · René Descartes (ERĒMIA · parts of whole)",
+  "emergence": "spiritual",
+  "moniker": "⟦René Descartes:MAL:32ebf2⟧",
+  "carbon": "descartes.carbon.tiff (TIFF)",
+  "silicon": "descartes.silicon.png (PNG)",
+  "seal_sha256": "69f48fcdc05cb65a6a5d87577c28342b5faf3d0a252df30c87120b7b2c442700",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

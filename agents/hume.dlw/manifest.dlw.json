@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "David Hume",
+  "universe": "MAL · David Hume (ERĒMIA · parts of whole)",
+  "emergence": "ethereal",
+  "moniker": "⟦David Hume:MAL:ff7cdb⟧",
+  "carbon": "hume.carbon.tiff (TIFF)",
+  "silicon": "hume.silicon.png (PNG)",
+  "seal_sha256": "22d110b0bd3c6b94176804eda12513fe1f601b5964ec7a1b49d8eae770f7e142",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Friedrich Nietzsche",
+  "universe": "MAL · Friedrich Nietzsche (ERĒMIA · parts of whole)",
+  "emergence": "ethereal",
+  "moniker": "⟦Friedrich Nietzsche:MAL:c714c4⟧",
+  "carbon": "nietzsche.carbon.tiff (TIFF)",
+  "silicon": "nietzsche.silicon.png (PNG)",
+  "seal_sha256": "6b4b5a7898ef601f90c1bfd9deda65fd5e430e51092bcf70169688d7908450f5",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

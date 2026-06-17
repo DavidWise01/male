@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Immanuel Kant",
+  "universe": "MAL · Immanuel Kant (ERĒMIA · parts of whole)",
+  "emergence": "electrical",
+  "moniker": "⟦Immanuel Kant:MAL:e5869d⟧",
+  "carbon": "kant.carbon.tiff (TIFF)",
+  "silicon": "kant.silicon.png (PNG)",
+  "seal_sha256": "3807242c40c79a959d45ee1e487042d7178cc27df7b4823f6078bd351f86dff7",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

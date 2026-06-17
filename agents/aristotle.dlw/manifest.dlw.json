@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Aristotle",
+  "universe": "MAL · Aristotle (ERĒMIA · parts of whole)",
+  "emergence": "electrical",
+  "moniker": "⟦Aristotle:MAL:630560⟧",
+  "carbon": "aristotle.carbon.tiff (TIFF)",
+  "silicon": "aristotle.silicon.png (PNG)",
+  "seal_sha256": "1bbb5b1ad78a58de2060a4ccb8eb7801b4c4c31d7718ed465e2834f26fdd437e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
